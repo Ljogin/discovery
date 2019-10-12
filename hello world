@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> "Hurra my first program" </title>
+<script type="text/javascript"> 
+alert ("Hello World!");
+</script>
+</head>
+<body> </body>
+</hmtl> 
